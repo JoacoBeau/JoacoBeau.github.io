@@ -11,7 +11,7 @@
     --tipo-principal: "Inter", sans-serif;
 }
 
-@media screen and (prefers-color-scheme:light){
+@media screen and (prefers-color-scheme:dark){
     :root {
         --blanco: #e0e0e0;
         --blanco-2: rgba(255,255,255,.2);
